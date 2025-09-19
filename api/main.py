@@ -4,7 +4,7 @@ import numpy as np
 from io import BytesIO
 from PIL import Image
 import tensorflow as tf
-import tf_keras as k3
+from tensorflow import keras as k3
 from tensorflow.keras.models import load_model
 from fastapi.middleware.cors import CORSMiddleware
 
