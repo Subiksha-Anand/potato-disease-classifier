@@ -19,8 +19,7 @@ app.add_middleware(
     allow_headers=["*"],  # Allow all headers
 )
 
-
-MODEL = tf.keras.models.load_model(r"C:\Users\subik\OneDrive\Document\PROJECT\potato\saved_model\converted_model.keras")
+MODEL = k3.models.load_model("saved_model/converted_model.keras")
 CLASS_NAMES = ["Early Blight", "Late Blight","Healthy"]
 
 
