@@ -160,12 +160,3 @@ Confusion matrix and classification report were generated for deeper performance
 * Research papers on CNN-based crop disease detection
 
 ---
-
-## 👩‍💻 Author
-
-**Pretty**
-🌸 *Data Science Enthusiast | Deep Learning Explorer | AI Innovator*
-
----
-
-Would you like me to make this version slightly more **academic (for report submission)** or **GitHub portfolio-friendly (with emojis and clean formatting)**?
